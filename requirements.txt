@@ -1,0 +1,9 @@
+openrouteservice==2.3.3
+shapely==2.0.1
+pyproj==3.6.0
+scipy==1.11.1
+geopy==2.3.0
+pandas==2.0.3
+folium==0.14.0
+numpy==1.24.3
+python-dotenv==1.0.0
